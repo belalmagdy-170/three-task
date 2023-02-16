@@ -1,0 +1,102 @@
+body{
+      background-color:rgb(10,12,27);
+      width: 992px;
+      height: 100px;
+      
+}
+
+.contaanr{
+      background-color: rgb(28, 26,56);
+      width: 43%;
+      border-radius: 40px;
+      display: flex;
+      border: 13.2ch solid rgb(10,12,27);
+      height: 54vh;
+      align-items: center;
+      font-size: 139%;
+      font-style: normal;
+      text-align: center;
+      -webkit-border-radius: 105px;
+      -moz-border-radius: 40px;
+      -ms-border-radius: 40px;
+      -o-border-radius: 40px;
+}
+
+#img{
+      background-image: url(./images/image-header-desktop.jpg);
+      background-size: cover;
+      width: 420px ;
+      height: 340px;
+
+      
+}
+.color{
+      width: 420px ;
+      height: 340px;
+      background-color: rgba(106, 72, 140, 0.7);
+}
+.attribution{
+            
+            margin-top: -6%;
+
+}
+
+span{
+      color: rgb(100, 60 , 145);
+}
+
+ 
+.texts{
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      color: rgb(253,  253, 251);
+      font-family: 'Inter', sans-serif;   
+      width: 421px;
+      text-align: center;
+
+}
+.tast{
+      display: flex;
+      
+      
+      
+
+}
+.text{
+      font-family: 'Inter', sans-serif;
+      
+      font-size: small;
+      font-weight: lighter;
+      word-spacing: 1px;
+      width: 320px;
+
+
+}
+stat-title{
+      font-family: 'Inter', sans-serif;    
+      font-size: xx-small;
+      font-weight: lighter;
+      margin-right: 67px;
+      padding: 9px;
+      
+     
+
+}
+.stats{
+       
+      text-indent: 6px; 
+      margin-left: 40px;
+      
+      
+}
+.stats-block{
+      text-align: justify;
+      font-size: 22px;
+}
+h1{
+      color: rgb(0, 17, 255);
+      text-shadow: 3px 2px 0px rgb(20, 3, 250) ;
+      font-size: small;
+}
